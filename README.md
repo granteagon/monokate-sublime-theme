@@ -10,4 +10,9 @@ Monokai like theme for Sublime Text that is easy on the eyes, like Kate Upton.
 - Don't abuse font styles
 - Send a screenshot of editor with pull requests
 
-Me on Twitter: @grantisspecial
+Me on Twitter: [@grantisspecial](https://twitter.com/grantisspecial)
+
+### Roadmap
+
+- Update support for diffs
+- Update support for CSS, LESS and SASS
